@@ -20,3 +20,8 @@
 
 ## Thats it you made your own splash 
 
+## Overview
+![Splash](https://github.com/mrfox2003/Splash-Tool/blob/main/screenshot/screenshot-logos.png)
+![Terminal](https://github.com/mrfox2003/Splash-Tool/blob/main/screenshot/screenshot-terminal.png)
+
+
